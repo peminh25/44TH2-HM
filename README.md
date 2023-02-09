@@ -26,4 +26,4 @@ Văn Việt **[ở đây]()**
 <a href="#" target="_blank">
 </a>  
 </a>
-* Nhấp vào 4 logo ở trên để có thể xem in4 mình nha :)))
+* Nhấp vào 4 logo ở trên để có thể xem in4 hoặc liên hệ mình nha :)))
