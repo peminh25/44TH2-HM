@@ -26,6 +26,8 @@ Văn Việt **[📥](https://drive.google.com/u/0/uc?id=1gmFL9BKQiagA5cFo8XxuGSm
 
 An **[📥](https://drive.google.com/u/0/uc?id=14x_XJWgqpBN68hg2cydU9P7PMeBoEROy&export=download)**
 
+Phạm Tú **[📥](https://drive.google.com/u/0/uc?id=1weGeJOi68u_b_eLWUxr8YFAQ30E-l8Q_&export=download)**
+
 # Danh sách những bạn mà mình đã gửi cho thầy (Update mới nhất vào 2/3/2023)
 1: Tuấn (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1krP2H0yzOU79YVFAg-W4_a8rhZvucKiE/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
 
