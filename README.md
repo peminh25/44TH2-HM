@@ -55,4 +55,4 @@ Phạm Tú **[📥](https://drive.google.com/u/0/uc?id=1weGeJOi68u_b_eLWUxr8YFAQ
 <a href="#" target="_blank">
 </a>  
 </a>
-* Nhấp vào 4 logo ở trên để có thể xem in4 hoặc liên hệ mình nếu có vấn đề nha :)))
+* Nhấp vào 6 logo ở trên để có thể xem in4 hoặc liên hệ mình nếu có vấn đề nha :)))
