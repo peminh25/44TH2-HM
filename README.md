@@ -4,10 +4,10 @@
 Yên tâm là sẽ không bị bay acc đâu mà nếu có bị bay acc khi mà nhấp link ở dưới thì mình sẽ chịu hoàn toàn trách nhiệm =)))
 
 # 4 File mẫu cho những bạn chưa làm có thể tải mẫu để sửa theo ý muốn.
-* 
-* 
-* 
-* 
+* **[Quản lí nhân sự](https://drive.google.com/u/0/uc?id=1Au6fV78qie5VKNptFKYcUfwjjayEykBy&export=download)** (Tự động tải về ngay khi nhấn vào)
+* **[Tin học văn phòng](https://drive.google.com/u/0/uc?id=1NcgH6F0Fudc5Masy3474Q8CwQK2ZVB99&export=download)**
+* **[Phần mềm kế toán](https://drive.google.com/u/0/uc?id=1hOVggI1zoxFz5V8tWWoI1MtEe58s66NK&export=download)**
+* **[Mạng máy tính](https://drive.google.com/u/0/uc?id=1hDuRvDQ_JrEApZ2RmdjPFcR_bUHCmw4F&export=download)**
 
 # 📁 File báo cáo thực tập nghề của mọi người đã gửi cho mình
 Mai Tiến Dũng **[📥](https://drive.google.com/u/0/uc?id=1BKf0jKhrrmtWhx4uZrXsiSjOt-qgugsT&export=download)**
