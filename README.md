@@ -16,7 +16,7 @@ Thùy Linh **[📥](https://drive.google.com/u/0/uc?id=1nqhOtbpUfTkdym4M-Z0f50SD
 
 Hồng Nhung **[📥](https://drive.google.com/u/0/uc?id=1lmVy4VoBg6nWIE-Z7QpgIMF-AuZqDrJw&export=download)**
 
-Thành Vinh **[📥]()**
+Thành Vinh **[📥](https://drive.google.com/u/0/uc?id=1TU_E5RkbvvwRp1wLx7Vt9oONG38Hwhoi&export=download)**
 
 Quỳnh Hương **[📥](https://drive.google.com/u/0/uc?id=1whCY448c6d0AA1A8PPVLH-umKPA2Wr1t&export=download)**
 
@@ -27,11 +27,11 @@ Văn Việt **[📥](https://drive.google.com/u/0/uc?id=1gmFL9BKQiagA5cFo8XxuGSm
 An **[📥]()**
 
 # Danh sách những bạn mà mình đã gửi cho thầy (Update mới nhất vào 2/3/2023)
-1: Tuấn (Có thể xem lại **[ở đây]()**)
+1: Tuấn (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1krP2H0yzOU79YVFAg-W4_a8rhZvucKiE/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
 
-2: Vinh (Có thể xem lại **[ở đây]()**)
+2: Vinh (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1TU_E5RkbvvwRp1wLx7Vt9oONG38Hwhoi/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
 
-3: Hương (Có thể xem lại **[ở đây]()**)
+3: Hương (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1whCY448c6d0AA1A8PPVLH-umKPA2Wr1t/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
 
 * Sẽ còn update thêm
 
