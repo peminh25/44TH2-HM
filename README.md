@@ -1,21 +1,39 @@
-# Danh sách file báo cáo thực tập của lớp 11A3 (44TH2-HM)
+# Danh sách file báo cáo thực tập của lớp 44TH2-HM
 * Mọi người có tên trong danh sách ở dưới có thể nhấp vào icon **[📥](https://youtu.be/dQw4w9WgXcQ)** để có thể tải file word theo tên của mình nhé=))
 
 Yên tâm là sẽ không bị bay acc đâu mà nếu có bị bay acc khi mà nhấp link ở dưới thì mình sẽ chịu hoàn toàn trách nhiệm =)))
-# 📁 File báo cáo thực tập nghề
+
+# 4 File mẫu cho những bạn chưa làm có thể tải mẫu để sửa theo ý muốn.
+* 
+* 
+* 
+* 
+
+# 📁 File báo cáo thực tập nghề của mọi người đã gửi cho mình
 Mai Tiến Dũng **[📥](https://drive.google.com/u/0/uc?id=1BKf0jKhrrmtWhx4uZrXsiSjOt-qgugsT&export=download)**
 
 Thùy Linh **[📥](https://drive.google.com/u/0/uc?id=1nqhOtbpUfTkdym4M-Z0f50SDT51n16_Z&export=download)**
 
 Hồng Nhung **[📥](https://drive.google.com/u/0/uc?id=1lmVy4VoBg6nWIE-Z7QpgIMF-AuZqDrJw&export=download)**
 
-Thành Vinh (Đang sửa hộ)
+Thành Vinh **[📥]()**
 
 Quỳnh Hương **[📥](https://drive.google.com/u/0/uc?id=1whCY448c6d0AA1A8PPVLH-umKPA2Wr1t&export=download)**
 
 Thanh **[📥](https://drive.google.com/u/0/uc?id=1fbCNlgom5NmurLPrG7FttFFij1bsLztv&export=download)**
 
 Văn Việt **[📥](https://drive.google.com/u/0/uc?id=1gmFL9BKQiagA5cFo8XxuGSmelO2SG1rs&export=download)**
+
+An **[📥]()**
+
+# Danh sách những bạn mà mình đã gửi cho thầy (Update mới nhất vào 2/3/2023)
+1: Tuấn (Có thể xem lại **[ở đây]()**)
+
+2: Vinh (Có thể xem lại **[ở đây]()**)
+
+3: Hương (Có thể xem lại **[ở đây]()**)
+
+* Sẽ còn update thêm
 
 # 👉 Liên hệ với Pé Minh
 <p align="center">
