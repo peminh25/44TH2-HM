@@ -48,6 +48,8 @@ Phạm Tú **[📥](https://drive.google.com/u/0/uc?id=1weGeJOi68u_b_eLWUxr8YFAQ
 &nbsp; <a href="https://github.com/peminh25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/pe.minh.25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
 &nbsp; <a href="https://m.me/100025964595861" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook-messenger.png"  width="100" /></a>
+&nbsp; <a href="https://www.instagram.com/ngminh25/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png"  width="100" /></a>
+&nbsp; <a href="https://www.youtube.com/@ngminh25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png"  width="100" /></a>
 </p>
 <br>
 <a href="#" target="_blank">
