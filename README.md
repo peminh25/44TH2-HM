@@ -3,7 +3,7 @@
 README.md by Pé Minh 205 v1.7
 
 ```
-Xem code **[tại đây]()** hoặc **[nhấn vào đây]()** để lướt xuống dòng cuối
+Xem code **[tại đây](https://raw.githubusercontent.com/peminh25/44TH2-HM/main/README.md)** hoặc **[nhấn vào đây](https://github.com/peminh25/44TH2-HM#show-code-markdown)** để lướt xuống dòng cuối
 
 # Danh sách file báo cáo thực tập của lớp 44TH2-HM
 
