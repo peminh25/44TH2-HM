@@ -1,8 +1,11 @@
 ```javascript
 
-README.md by Pé Minh 205 v1.7
+README.md by Pé Minh 205 v1.8
 
 ```
+# Danh sách thi lại các môn nghề vui lòng nhấn **[TẠI ĐÂY](https://github.com/peminh25/44TH2-HM#danh-sách-thi-lại)** để xem danh sách và link bài thi lại. Nếu đã thi lại r thì có thể bỏ qua dòng này. 
+
+
 Xem code **[tại đây](https://raw.githubusercontent.com/peminh25/44TH2-HM/main/README.md)** hoặc **[nhấn vào đây](https://github.com/peminh25/44TH2-HM#show-code-markdown)** để lướt xuống dòng cuối
 
 # Danh sách file báo cáo thực tập của lớp 44TH2-HM
@@ -12,7 +15,6 @@ Xem code **[tại đây](https://raw.githubusercontent.com/peminh25/44TH2-HM/mai
 Yên tâm là sẽ không bị bay acc đâu mà nếu có bị bay acc khi mà nhấp link ở dưới thì mình sẽ chịu hoàn toàn trách nhiệm =)))
 
 # 4 File mẫu cho những bạn chưa làm có thể tải mẫu để sửa theo ý muốn.
-
 * **[Quản lí nhân sự](https://drive.google.com/u/0/uc?id=1Au6fV78qie5VKNptFKYcUfwjjayEykBy&export=download)** (Tự động tải về ngay khi nhấn vào)
 * **[Tin học văn phòng](https://drive.google.com/u/0/uc?id=1NcgH6F0Fudc5Masy3474Q8CwQK2ZVB99&export=download)**
 * **[Phần mềm kế toán](https://drive.google.com/u/0/uc?id=1hOVggI1zoxFz5V8tWWoI1MtEe58s66NK&export=download)**
@@ -40,17 +42,36 @@ Phạm Tú **[📥](https://drive.google.com/u/0/uc?id=1weGeJOi68u_b_eLWUxr8YFAQ
 
 Chí Hiếu **[📥](https://drive.google.com/u/0/uc?id=10_Wqd2kaToqNNhhUEuWUho0NuDgZzbLm&export=download)**
 
-# Danh sách những bạn mà mình đã gửi cho thầy (Update mới nhất vào 2/3/2023)
-1: Tuấn (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1krP2H0yzOU79YVFAg-W4_a8rhZvucKiE/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
+# Danh sách những bạn mà mình đã gửi cho thầy (Update mới nhất vào 31/3/2023)
+* Hiện tại thì đã gửi gần hết danh sách cho thầy với những người đã gửi file cho mình ở trên. Những người chưa gửi file làm lại cho mình bao gồm: Nhung
 
-2: Vinh (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1TU_E5RkbvvwRp1wLx7Vt9oONG38Hwhoi/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
+# Danh sách thi lại
+=> Có thể nhấn tên môn để chuyển hướng thẳng đến bài thi môn đó
 
-3: Hương (Có thể xem lại **[ở đây](https://docs.google.com/document/d/1whCY448c6d0AA1A8PPVLH-umKPA2Wr1t/edit?usp=drivesdk&ouid=104603025346364171388&rtpof=true&sd=true)**)
+* Môn: **[Tiếng Anh](https://forms.gle/LFqM7R4yJW6NnFzo7)** 
 
-* Sẽ còn update thêm
+Danh sách thi lại: Văn Việt
 
-# 👉 Liên hệ với Pé Minh
-<p align="center">
+* Môn: **[Lập trình C](https://forms.gle/pPbzg2zaGbZFHuLx9)**
+
+Danh sách thi lại: Đông, Ngọc, Tùng, Thanh Sơn, Thanh, Thư, Tùng, Văn Việt, Quốc Việt
+
+* Môn: **[Kiến trúc máy tính](https://forms.gle/FEWox3HGjzKJ2Nc48)**
+
+Danh sách thi lại: Thanh Sơn, Tùng, Văn Việt
+
+* Môn: **[Thiết bị văn phòng](https://forms.gle/AvGSFM2Zrfa4SFwo7)**
+
+Danh sách thi lại: Đông, Tùng
+
+* Môn: **[illustrator](https://forms.gle/xJvwC68MejY1wFTr9)**
+
+Danh sách thi lại: Đông, Chí Hiếu, Ngọc, Thanh, Thư, Tùng, Văn Việt, Quốc Việt
+
+* Môn: **[Tin học văn phòng](https://forms.gle/YqC7XqpnyADYEzBaA)**
+
+Danh sách thi lại: Quốc Việt
+
 &nbsp; <a href="https://www.tiktok.com/@ngminh25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/tiktok.png" width="100" /></a>    
 &nbsp; <a href="https://github.com/peminh25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/pe.minh.25" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
